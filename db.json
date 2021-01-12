@@ -1,14 +1,21 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+  "products": [
+       {
+          "id": "ip12",
+          "name": "Iphone 12 128GB",
+          "details": "Điểm nhấn đầu tiên phải kể đến ở dòng máy này chính là viền máy không còn được thiết kế bo cong các cạnh, mà thay vào đó là phần cạnh máy được vát phẳng vô cùng mạnh mẽ và cá tính.",
+          "price": "$1500",
+          "image": "https://cdn.tgdd.vn/Products/Images/42/228736/iphone-12-xanh-duong-new-600x600-600x600.jpg"
+        },
+      {
+          "id": "ssfold",
+          "name": "Samsung Galaxy Z Fold2 5G Đặc Biệt",
+          "details": "Phần “xương sống” của máy cho phép bạn gập mở nhịp nhàng ở nhiều góc độ khác nhau",
+          "price": "$2000",
+          "image": "https://cdn.tgdd.vn/Products/Images/42/232668/samsung-galaxy-z-fold-2-vang-600x600-600x600.jpg"
+        }
   ],
   "profile": {
-    "name": "typicode"
+    "name": "nosnart"
   }
 }
